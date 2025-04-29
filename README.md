@@ -48,7 +48,7 @@ This project is a real-time chat application that allows users to join a chat ro
 4. Set up environment variables:
 
     Create a .env.local file in the root directory and add your Supabase credentials:
-    
+
 ```bash
 NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
@@ -81,7 +81,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Live Demo
 
-You can access the live version of animagic [here](https://animagic-five.vercel.app/).
+You can access the live version of animagic [here](https://chat-blue-beta-31.vercel.app/).
 
 ### Contact Me
 
